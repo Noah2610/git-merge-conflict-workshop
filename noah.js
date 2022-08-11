@@ -1,3 +1,3 @@
 function hello() {
-    console.log("Hello Git Merge Conflict!");
+  console.log("Guten Tag Git Merge Conflict!");
 }
